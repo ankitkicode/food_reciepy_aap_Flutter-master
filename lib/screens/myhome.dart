@@ -43,7 +43,7 @@ class _MyHomeState extends State<MyHome> {
         isLoading = false;
       });
 
-      // log(recipeList.toString());
+      print(recipeList.toString());
     });
 
 // fatch karne ke liye data code
